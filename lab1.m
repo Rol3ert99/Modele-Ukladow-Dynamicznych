@@ -1,3 +1,4 @@
+%_________________________WPROWADZENIE_DO_MATLABA__________________________
 clear all;
 close all;
 f1 = figure(1);
